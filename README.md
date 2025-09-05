@@ -6,9 +6,8 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
 <ol>
   <li>comic book-style bubble dialogue with selector logic to automatically add connector lines & remove tails</li>
   <li>more css art..?</li>
+  <li>importing my old stuff into here</li>
 </ol>
-
-<hr>
 
 <h4>currently pretending to work on:</h4>
 <ol>
@@ -17,17 +16,6 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
   <li>college apps :(</li>
 </ol>
 
-<!--
-**stoneFlyWheel/stoneFlyWheel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i'm still figuring out how github works. bleeghghhghgh
