@@ -4,7 +4,6 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
 
 <h4>currently working on:</h4>
 <ol>
-  <li>comic book-style bubble dialogue with selector logic to automatically add connector lines & remove tails</li>
   <li>more css art..?</li>
   <li>importing my old stuff into here</li>
 </ol>
@@ -14,6 +13,13 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
   <li>physics + calc homework</li>
   <li>orchestra + choir stuff</li>
   <li>college apps :(</li>
+</ol>
+
+<h4>todo:</h4>
+<ol>
+  <li>reupload murderbot stuff (debug)</li>
+  <li>upload d:bh stress tests</li>
+  <li>remake old stuff?</li>
 </ol>
 
 <hr>
