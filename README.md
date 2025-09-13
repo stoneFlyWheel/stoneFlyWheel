@@ -4,6 +4,7 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
 
 <h4>currently working on:</h4>
 <ol>
+  <li>CYOA based on 'the murderbot diaries'</li>
   <li>more css art..?</li>
   <li>importing my old stuff into here</li>
 </ol>
