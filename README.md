@@ -1,4 +1,4 @@
-<h1>hi, i'm sage!</h1>
+<h1>hi, i'm sage! ヾ(*'▽'*)</h1>
 
 i'm a high school senior from northern-ish virginia who likes to mess around with CSS and HTML. i'm currently applying to ✨college✨ for nuclear engineering!!!
 
