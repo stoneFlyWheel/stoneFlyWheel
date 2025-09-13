@@ -25,4 +25,4 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
 
 <hr>
 
-i'm still figuring out how github works. bleeghghhghgh
+i'm still figuring out how github works. (*_ _)人
