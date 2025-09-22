@@ -25,4 +25,4 @@ i'm a high school senior from northern-ish virginia who likes to mess around wit
 
 <hr>
 
-i'm still figuring out how github works. (*_ _)人
+i know it looks like i started doing this stuff in september 2025 but that's just when i started uploading stuff to github. speaking of, i'm still figuring out how it works. (*_ _)人
