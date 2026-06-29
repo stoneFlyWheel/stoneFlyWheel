@@ -16,7 +16,7 @@ i'm a nuclear engineering freshman from northern-ish virginia who likes to mess 
 
 <h4>todo:</h4>
 <ol>
-  <li>update hades github entry/li>
+  <li>update hades github entry</li>
   <li>get back to css!</li>
   <li>remake old stuff?</li>
 </ol>
